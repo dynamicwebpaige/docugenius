@@ -1,0 +1,5 @@
+{
+  "name": "DocuGenius",
+  "description": "A smart PDF signing tool powered by Gemini NanoBanana. Upload documents, automatically detect signature fields, and apply your digital signature with ease.",
+  "requestFramePermissions": []
+}
